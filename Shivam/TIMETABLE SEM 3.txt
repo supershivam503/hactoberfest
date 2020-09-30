@@ -1,0 +1,19 @@
+          9-10    10-11     11-12     12-1      2-3      3-4      4-5      5-6     6-7
+
+
+MONDAY-            CS206     CS204     MA201    HS201                        
+
+
+
+TUESDA-  MA201     CS206      CS204             HS201                      MA201              
+
+
+
+WEDNES-           CS206      CS204     MA201     HS201    
+
+
+THURS-                                                    CS205    CS205    CS205
+
+
+
+FRI-                                                      CS206     CS206   
