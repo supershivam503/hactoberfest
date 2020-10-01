@@ -1,5 +1,5 @@
 # Hactoberfest
-Directions for creating a Pull Request
+Directions for creating a Pull Request on GITHUB
 
 1.Fork the repository.
 
